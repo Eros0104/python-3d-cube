@@ -4,7 +4,7 @@
   <img src="https://github.com/Eros0104/python-3d-cube/blob/main/docs/rotating-cube.gif?raw=true" width="500" />
 </p>
 
-<p align="center">A little project that renders a rotating 3d cube, using rotation matrices.</p>
+<p align="center">A little project that renders a rotating 3d cube, using <a href="https://en.wikipedia.org/wiki/Rotation_matrix">rotation matrices</a>.</p>
 
 ## :computer: Prerequisites
 
@@ -30,3 +30,7 @@ cd python-3d-cube
 python main.py
 
 ```
+
+## :books: Libraries
+
+- [PyGame](https://www.pygame.org/news) - Used to render graphics
